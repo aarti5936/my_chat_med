@@ -1,0 +1,10 @@
+pypdf
+langchain
+torch
+ctransformers
+sentence_transformers
+faiss_cpu
+chainlit
+huggingface_hub
+langchain_community
+llama-2-7b-chat.ggmlv3.q8_0.bin
